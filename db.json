@@ -1,0 +1,63 @@
+{
+    "success": true,
+    "items": [
+        {
+            "id": "plan_GDmaFcWBRkr3yg",
+            "amount": 2500.0,
+            "name": "12 Meses",
+            "fee": 0,
+            "months": 12,
+            "active": true,
+            "discount": 0.0,
+            "IVA": 0.16,
+            "installationCost": 0.0,
+            "hardwareCost": 2800.0,
+            "reactivationSubscription": 0.0,
+            "idPlanOnline": 79
+        },
+        {
+            "id": "plan_80",
+            "amount": 4500.0,
+            "name": "24 Meses",
+            "fee": 0,
+            "months": 24,
+            "active": true,
+            "discount": 0.0,
+            "IVA": 0.16,
+            "installationCost": 0.0,
+            "hardwareCost": 2800.0,
+            "reactivationSubscription": 0.0,
+            "idPlanOnline": 80
+        },
+        {
+            "id": "plan_81",
+            "amount": 6375.0,
+            "name": "36 Meses",
+            "fee": 0,
+            "months": 36,
+            "active": true,
+            "discount": 0.0,
+            "IVA": 0.16,
+            "installationCost": 0.0,
+            "hardwareCost": 2800.0,
+            "reactivationSubscription": 0.0,
+            "idPlanOnline": 81
+        }
+    ],
+    "coupon": {
+        "idError": 2,
+        "idDescuento": 3,
+        "hash": "Amigos",
+        "description": "Descuento de 10%",
+        "active": true,
+        "discountType": 3,
+        "registerDate": "2020-04-04T13:33:08.19",
+        "amount": 0.0000,
+        "percentageDis": 0.10,
+        "num": 15,
+        "TimesUsed": 0,
+        "startDate": "2020-01-04T00:00:00",
+        "finishDate": "2020-10-04T00:00:00"
+    },
+    "message": ""
+}
